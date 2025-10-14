@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## HEWWOOOO
+<!-- Banner -->
+<p align="center">
+ <img src="https://i.imgur.com/xyz123.gif" width="100%" alt="banner" />
+</p>
 <!--
 **hhypernova/hhypernova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

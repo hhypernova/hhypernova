@@ -2,17 +2,7 @@
 <!-- Banner -->
 <p align="center">
 <p align="center">
-  <img src="https://i.imgur.com/uxn0GP5.jpeg"  width="100%" alt="banner" />
-   <img src="https://i.imgur.com/8ADlRAF.jpeg"  width="100%" alt="banner" />
-   <img src="https://i.imgur.com/Md7wkBa.jpeg"  width="100%" alt="banner" />
-     <img src="https://i.imgur.com/WWuJpko.jpeg"  width="100%" alt="banner" />
-</p>
-
-
-<!-- Banner -->
-<p align="center">
-<p align="center">
-  <img src="https://i.imgur.com/W6thQxk.gif"  width="100%" alt="banner" />
+  <img src="https://i.imgur.com/469vrGr.gif"  width="100%" alt="banner" />
 </p>
 
 </p>
@@ -20,7 +10,7 @@
 <!-- Divider azul -->
 <p align="center">
 <p align="center">
-  <img src="https://i.imgur.com/WsflXX6.gif"  width="100%" alt="banner" />
+  <img src="https://i.imgur.com/GTCszB8.gif"  width="100%" alt="banner" />
 </p>
 
 </p>
@@ -45,11 +35,11 @@ eng . esp / 4TEEN 4EVER <br>
 <!-- Divider azul -->
 <p align="center">
 <p align="center">
-  <img src="https://i.imgur.com/WsflXX6.gif"  width="100%" alt="banner" />
+  <img src="https://i.imgur.com/PvuaxqP.gif"  width="100%" alt="banner" />
 </p>
 
 <!-- SEGUNDO GIFPP -->
 <p align="center">
 <p align="center">
-  <img src="https://i.imgur.com/la5TcYp.gif"  width="100%" alt="banner" />
+  <img src="https://i.imgur.com/sMszktI.gif"  width="100%" alt="banner" />
 </p>
